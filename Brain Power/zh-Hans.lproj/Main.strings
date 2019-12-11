@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "Timer"; ObjectID = "0ev-1b-9RN"; */
+"0ev-1b-9RN.text" = "倒计时";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2eG-a8-R4f"; */
+"2eG-a8-R4f.text" = "标签";
+
+/* Class = "UIButton"; normalTitle = "Test my memory"; ObjectID = "3x7-23-3oz"; */
+"3x7-23-3oz.normalTitle" = "测试我的记忆";
+
+/* Class = "UIBarButtonItem"; title = "Score"; ObjectID = "8iY-0l-H8D"; */
+"8iY-0l-H8D.title" = "分数";
+
+/* Class = "UILabel"; text = "Rating"; ObjectID = "9bX-nc-2Gj"; */
+"9bX-nc-2Gj.text" = "评分";
+
+/* Class = "UIBarButtonItem"; title = "Train"; ObjectID = "Cyu-so-4Rx"; */
+"Cyu-so-4Rx.title" = "训练";
+
+/* Class = "UILabel"; text = "Color"; ObjectID = "DEb-ZP-YF1"; */
+"DEb-ZP-YF1.text" = "颜色";
+
+/* Class = "UILabel"; text = "Name "; ObjectID = "JaA-55-Fuh"; */
+"JaA-55-Fuh.text" = "名称 ";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "LGr-yx-9SU"; */
+"LGr-yx-9SU.text" = "年龄";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "Lk8-g8-sje"; */
+"Lk8-g8-sje.title" = "完成";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "MBe-NB-NhT"; */
+"MBe-NB-NhT.title" = "完成";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Oeu-Nh-T4t"; */
+"Oeu-Nh-T4t.text" = "名称";
+
+/* Class = "UIButton"; normalTitle = " 📷"; ObjectID = "UBE-58-iqD"; */
+"UBE-58-iqD.normalTitle" = " 📷";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "UEd-LW-jJa"; */
+"UEd-LW-jJa.normalTitle" = "添加";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "XCQ-3q-sDI"; */
+"XCQ-3q-sDI.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "eOV-hq-gb6"; */
+"eOV-hq-gb6.text" = "年龄";
+
+/* Class = "UINavigationItem"; title = "Results"; ObjectID = "fRB-dP-FIQ"; */
+"fRB-dP-FIQ.title" = "结果";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "hMn-BM-uH3"; */
+"hMn-BM-uH3.text" = "分数";
+
+/* Class = "UILabel"; text = "Diffulity"; ObjectID = "jkQ-BJ-6lS"; */
+"jkQ-BJ-6lS.text" = "难度";

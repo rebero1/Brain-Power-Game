@@ -1,0 +1,52 @@
+
+/* Class = "UILabel"; text = "Rating"; ObjectID = "9bX-nc-2Gj"; */
+"9bX-nc-2Gj.text" = "Rating";
+
+/* Class = "UILabel"; text = "Color"; ObjectID = "DEb-ZP-YF1"; */
+"DEb-ZP-YF1.text" = "Color";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "EYW-HA-MRl"; */
+"EYW-HA-MRl.text" = "Diffuclity:";
+
+/* Class = "UILabel"; text = "Name "; ObjectID = "JaA-55-Fuh"; */
+"JaA-55-Fuh.text" = "Name ";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "LGr-yx-9SU"; */
+"LGr-yx-9SU.text" = "Age";
+
+/* Class = "UILabel"; text = "last_seen"; ObjectID = "MzA-m4-wPd"; */
+"MzA-m4-wPd.text" = "last_seen";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Oeu-Nh-T4t"; */
+"Oeu-Nh-T4t.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Select Picture"; ObjectID = "UBE-58-iqD"; */
+
+
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "UEd-LW-jJa"; */
+"UEd-LW-jJa.normalTitle" = "Add";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "XCQ-3q-sDI"; */
+"XCQ-3q-sDI.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Color:"; ObjectID = "cLm-qD-KfJ"; */
+"cLm-qD-KfJ.text" = "Color:";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "eOV-hq-gb6"; */
+"eOV-hq-gb6.text" = "name";
+
+/* Class = "UILabel"; text = "aartis"; ObjectID = "hMn-BM-uH3"; */
+"hMn-BM-uH3.text" = "aartis";
+
+/* Class = "UILabel"; text = "Difficulity"; ObjectID = "jkQ-BJ-6lS"; */
+"jkQ-BJ-6lS.text" = "Difficulity";
+
+/* Class = "UILabel"; text = " Difficulity:"; ObjectID = "keJ-0B-8DL"; */
+"keJ-0B-8DL.text" = " Difficulity:";
+
+/* Class = "UILabel"; text = " published"; ObjectID = "pv7-M9-wl7"; */
+"pv7-M9-wl7.text" = " published";
+
+/* Class = "UILabel"; text = "location"; ObjectID = "uhP-Ob-hHS"; */
+"uhP-Ob-hHS.text" = "location";
