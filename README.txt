@@ -135,6 +135,4 @@ There are two language which you can choose dependently.
 
 
 
- 
-Note to TA:
-Have fun. 
+    
