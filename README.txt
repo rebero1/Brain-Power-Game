@@ -1,13 +1,4 @@
-Name: Haochen Zeng
-Email: hzeng4@u.rochester.edu
-Course: CSC 214 - Mobile App Development (iOS)
-Instructor: Arthur Roolfs
  
-Assignment #: Project 3
- 
- 
-I affirm that I have not given or received any unauthorized help on this assignment, and that this work is my own.
-Date: 12/4/2019
  
 
 Description:
